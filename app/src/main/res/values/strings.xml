@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Updateapk</string>
+    <string name="title_download">Install Update</string>
+    <string name="ticker_download" />
+    <string name="update_available">Update Available</string>
+    <string name="text_download">Download finished</string>
+    <string name="unable_to_open_file">Unable to open file</string>
+    <string name="LastVersionAvailable">Last Version Available :</string>
+    <string name="CurrentVersion">Current Version :</string>
+</resources>
